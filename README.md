@@ -1,4 +1,4 @@
-# Hi, I'm Leroy
+# Heeeey, dear visitors!
 
 A senior full-stack developer from Ukraine, based in Dnipro
 
@@ -114,7 +114,7 @@ CSS                      1 repo              ███████░░░░�
 <!--END_SECTION:waka-->
 
 <!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leroywagner/leroywagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
