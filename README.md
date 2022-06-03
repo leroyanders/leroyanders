@@ -28,12 +28,8 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 > *I am 20 years old, I have been working in my specialty for more than 8 years. I didn't get an education in my specialty at universities, but I was always interested in this area and delved into it as a hobby, but soon realized that I want to build a professional activity in their hobby. I try to develop comprehensively, I like to receive new knowledge.*
 
 ## Stats
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C682%20hrs%202%20mins-blue)
-<img src="https://komarev.com/ghpvc/?username=leroywagner&color=brightgreen" alt="watching_count" />
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **I'm an Early 🐤** 
@@ -66,6 +62,6 @@ HTML                     1 repo              ███████████�
 
 <!--END_SECTION:waka-->
 
-**I Mostly Code in Python** 
+**Awesome projects** 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leroywagner&repo=articlegenerator)](https://github.com/leroywagner/articlegenerator)
