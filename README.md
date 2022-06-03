@@ -8,8 +8,8 @@ A senior full-stack developer from Ukraine, based in Dnipro.
   <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="500" height="320" />
 
   
-- 🚀 any freelance work? do reach, [my mail](mailto:leroywagner20@gmail.com)
-- 💬 ask me about anything, i am happy to help;
+- any freelance work? do reach, [write me](mailto:leroywagner20@gmail.com).
+- ask me about anything, i am happy to help.
 
 **languages and tools:**  
 
