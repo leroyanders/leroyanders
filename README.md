@@ -36,37 +36,13 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 24 Contributions in the Year 2022
- > 
-> 📦 202.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-🌆 Daytime    9 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    7 commits      █████████░░░░░░░░░░░░░░░░   38.89% 
+🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+🌆 Daytime    11 commits     █████████████░░░░░░░░░░░░   55.0% 
+🌃 Evening    7 commits      ████████░░░░░░░░░░░░░░░░░   35.0% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     7 commits      █████████░░░░░░░░░░░░░░░░   38.89% 
-Friday       11 commits     ███████████████░░░░░░░░░░   61.11% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -74,18 +50,7 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Kiev
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -98,12 +63,7 @@ HTML                     1 repo              ███████████�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/leroywagner/leroywagner/main/charts/bar_graph.png) 
-
-
- Last Updated on 03/06/2022 13:33:40 UTC
 <!--END_SECTION:waka-->
 
 **I Mostly Code in Python** 
