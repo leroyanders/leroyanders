@@ -1,36 +1,31 @@
-# Welcome to my profile, dear visitors!
+# Welcome to my profile, dear visitors! 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-I'm a senior full-stack developer from Ukraine, based in Dnipro.
+<a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+A senior full-stack developer from Ukraine, based in Dnipro.
+
+  <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="500" height="320" />
+
+  
+- 🚀 any freelance work? do reach, [my mail](mailto:leroywagner20@gmail.com)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 ## About Me
-
->  🌱 I’m currently learning ``` Flutter ``` and ``` Dart ```.
->  
->  📝 I regulary write articles on my ``` twitter.com/leroywagner7 ```!
->  
->  📫 Write me ``` leroy.wagner20@gmail.com ```
-
-## Operating System & Tools
-
-[![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
-[![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
-[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-
-## Technology Stack
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-[![React.js](https://img.shields.io/badge/-React.js-%23F7DF1C?style=flat-square&logo=react&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff)](https://nextjs.org/)
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff&borderRadius=10)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+> *I am 20 years old, I have been working in my specialty for more than 8 years. I didn't get an education in my specialty at universities, but I was always interested in this area and delved into it as a hobby, but soon realized that I want to build a professional activity in their hobby. I try to develop comprehensively, I like to receive new knowledge.*
 
 ## Stats
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C682%20hrs%202%20mins-blue)
@@ -39,10 +34,10 @@ I'm a senior full-stack developer from Ukraine, based in Dnipro.
 **I'm an Lately 🐤** 
 
 ```text
-  🌞 Morning         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-  🌆 Daytime         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-  🌃 Evening         ███████░░░░░░░░░░░░░░░░░░   28.57% 
-  🌙 Night           █████████████████░░░░░░░░   71.43% 
+🌞 Morning         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌃 Evening         ███████░░░░░░░░░░░░░░░░░░   28.57% 
+🌙 Night           █████████████████░░░░░░░░   71.43% 
 ```
 
 **I Mostly Code in Python** 
