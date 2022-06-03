@@ -1,11 +1,11 @@
 # Welcome to my profile, dear visitors! 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" width="150" ></a>
 
 A senior full-stack developer from Ukraine, based in Dnipro.
 
-  <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="500" height="320" />
 
   
 - any freelance work? do reach, [write me](mailto:leroywagner20@gmail.com).
