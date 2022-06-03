@@ -30,25 +30,23 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 ## Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-🌆 Daytime    11 commits     █████████████░░░░░░░░░░░░   55.0% 
-🌃 Evening    7 commits      ████████░░░░░░░░░░░░░░░░░   35.0% 
+🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+🌆 Daytime    14 commits     ███████████████░░░░░░░░░░   60.87% 
+🌃 Evening    7 commits      ███████░░░░░░░░░░░░░░░░░░   30.43% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
-**This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in HTML** 
