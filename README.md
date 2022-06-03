@@ -31,7 +31,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue)
 
 **I'm an Early 🐤** 
 
