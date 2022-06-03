@@ -42,7 +42,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Friday** 
+**I'm Most Productive on Friday** 
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -53,12 +53,6 @@ Friday       20 commits     █████████████████�
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
 ```
 
 **I Mostly Code in HTML** 
