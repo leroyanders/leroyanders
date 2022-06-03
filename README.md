@@ -43,3 +43,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 **I Mostly Code in Python** 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leroywagner&repo=articlegenerator)](https://github.com/leroywagner/articlegenerator)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
