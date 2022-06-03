@@ -43,7 +43,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
@@ -62,6 +62,9 @@ HTML                     1 repo              ███████████�
 
 <!--END_SECTION:waka-->
 
-**Awesome projects** 
+
+
+
+**💡 Awesome projects** 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leroywagner&repo=articlegenerator)](https://github.com/leroywagner/articlegenerator)
