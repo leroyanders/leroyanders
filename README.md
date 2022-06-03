@@ -28,6 +28,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 > *I am 20 years old, I have been working in my specialty for more than 8 years. I didn't get an education in my specialty at universities, but I was always interested in this area and delved into it as a hobby, but soon realized that I want to build a professional activity in their hobby. I try to develop comprehensively, I like to receive new knowledge.*
 
 ## Stats
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4423?logoColor=white%26project=%26recentMS=0%26showProject=false)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
