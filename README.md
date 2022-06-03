@@ -31,20 +31,6 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C682%20hrs%202%20mins-blue)
 <img src="https://komarev.com/ghpvc/?username=leroywagner&color=brightgreen" alt="watching_count" />
 
-**I'm an Lately 🐤** 
-
-```text
-🌞 Morning         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌃 Evening         ███████░░░░░░░░░░░░░░░░░░   28.57% 
-🌙 Night           █████████████████░░░░░░░░   71.43% 
-```
-
-**I Mostly Code in Python** 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leroywagner&repo=articlegenerator)](https://github.com/leroywagner/articlegenerator)
-
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -119,3 +105,7 @@ HTML                     1 repo              ███████████�
 
  Last Updated on 03/06/2022 13:33:40 UTC
 <!--END_SECTION:waka-->
+
+**I Mostly Code in Python** 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leroywagner&repo=articlegenerator)](https://github.com/leroywagner/articlegenerator)
