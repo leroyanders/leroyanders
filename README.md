@@ -4,15 +4,15 @@ I'm a senior full-stack developer from Ukraine, based in Dnipro.
 
 ## About Me
 
-- 🌱 I’m currently learning ``` Flutter ``` and ``` Dart ```.
-
-- 📝 I regulary write articles on my ``` twitter.com/leroywagner7 ```!
-
-- 📫 Write me ``` leroy.wagner20@gmail.com ```
+>  🌱 I’m currently learning ``` Flutter ``` and ``` Dart ```.
+>  
+>  📝 I regulary write articles on my ``` twitter.com/leroywagner7 ```!
+>  
+>  📫 Write me ``` leroy.wagner20@gmail.com ```
 
 ## Operating System & Tools
 
-[![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
+[![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
 [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
@@ -39,10 +39,10 @@ I'm a senior full-stack developer from Ukraine, based in Dnipro.
 **I'm an Lately 🐤** 
 
 ```text
-🌞 Morning         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-🌃 Evening         ███████░░░░░░░░░░░░░░░░░░   28.57% 
-🌙 Night           █████████████████░░░░░░░░   71.43% 
+  🌞 Morning         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+  🌆 Daytime         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+  🌃 Evening         ███████░░░░░░░░░░░░░░░░░░   28.57% 
+  🌙 Night           █████████████████░░░░░░░░   71.43% 
 ```
 
 **I Mostly Code in Python** 
