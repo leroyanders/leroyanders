@@ -66,6 +66,6 @@ articlegenerator         0 secs              ░░░░░░░░░░░�
 
 
 
-**💡 Awesome projects** 
+<!-- **💡 Awesome projects** 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leroywagner&repo=articlegenerator)](https://github.com/leroywagner/articlegenerator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leroywagner&repo=articlegenerator)](https://github.com/leroywagner/articlegenerator) -->
