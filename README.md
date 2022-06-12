@@ -29,7 +29,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 
 ## Stats
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
@@ -38,7 +38,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm most productive on Friday** 
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -52,7 +52,7 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 🐱‍💻 Projects: 
