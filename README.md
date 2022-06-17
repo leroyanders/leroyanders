@@ -25,7 +25,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 
 
 ## About Me
-> *I am 20 years old, I have been working in my specialty for more than 8 years. I didn't get an education in my specialty at universities, but I was always interested in this area and delved into it as a hobby, but soon realized that I want to build a professional activity in their hobby. I try to develop comprehensively, I like to receive new knowledge.*
+> *I am 21 years old, I have been working in my specialty for more than 8 years. I didn't get an education in my specialty at universities, but I was always interested in this area and delved into it as a hobby, but soon realized that I want to build a professional activity in their hobby. I try to develop comprehensively, I like to receive new knowledge.*
 
 ## Stats
 <!--START_SECTION:waka-->
