@@ -8,7 +8,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 <!--   <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="500" height="320" /> -->
 
   
-- any freelance work? do reach, [write me](mailto:leroywagner20@gmail.com).
+- any freelance work? do reach, [write me](mailto:leroy.wagner20@gmail.com).
 - ask me about anything, i am happy to help.
 
 **languages and tools:**  
