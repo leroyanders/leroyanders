@@ -1,31 +1,24 @@
-# Welcome to my profile, dear visitors! 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+## Heeeeeeeeeey, what's up? 👋🏼
+<!-- > *I am 21 years old, I have been working in my specialty for more than 8 years. I didn't get an education in my specialty at universities, but I was always interested in this area and delved into it as a hobby, but soon realized that I want to build a professional activity in their hobby. I try to develop comprehensively, I like to receive new knowledge.* -->
 
-<a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
 A senior full-stack developer from Ukraine, based in Dnipro.
 
-<!--   <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="500" height="320" /> -->
-
-  
-- any freelance work? do reach, [write me](mailto:leroy.wagner20@gmail.com).
+- any freelance work? do reach, [telegram me](https://t.me/leroywagner).
 - ask me about anything, i am happy to help.
 
-**languages and tools:**  
+if you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺👉👈
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
+#### Languages & Technologies
 
-## About Me
-> *I am 21 years old, I have been working in my specialty for more than 8 years. I didn't get an education in my specialty at universities, but I was always interested in this area and delved into it as a hobby, but soon realized that I want to build a professional activity in their hobby. I try to develop comprehensively, I like to receive new knowledge.*
+  | 🌱 Specification  | ✍ List of technologies                                       |
+  |    ---            |                        ---                                   |
+  | UI                | `React.js` `Vue.js` `Angular.js` `TailwindCSS` `Bootstrap`   |
+  | Serverside        | `Node.js` `Django` `Flask` `PHP` `Laravel`                   |
+  | Generators        | `Next.js` `Nuxt.js`                                          |
+  | Mobile            | `Flutter` `React Native`                                     |
 
 ## Stats
 <!--START_SECTION:waka-->
