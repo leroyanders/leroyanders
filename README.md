@@ -1,15 +1,13 @@
 ## Heeeeeeeeeey, what's up? 👋🏼
-<!-- > *I am 21 years old, I have been working in my specialty for more than 8 years. I didn't get an education in my specialty at universities, but I was always interested in this area and delved into it as a hobby, but soon realized that I want to build a professional activity in their hobby. I try to develop comprehensively, I like to receive new knowledge.* -->
 
+if you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
 A senior full-stack developer from Ukraine, based in Dnipro.
 
 - any freelance work? do reach, [telegram me](https://t.me/leroywagner).
 - ask me about anything, i am happy to help.
-
-if you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
 #### Languages & Technologies
 
