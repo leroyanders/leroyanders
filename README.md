@@ -11,12 +11,12 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 
 #### Languages & Technologies
 
-  | 🌱 Specification  | ✍ List of technologies                                       |
-  |    ---            |                        ---                                   |
-  | UI                | `React.js` `Vue.js` `Angular.js` `TailwindCSS` `Bootstrap`   |
-  | Serverside        | `Node.js` `Django` `Flask` `PHP` `Laravel` `Express.js`      |
-  | Generators        | `Next.js` `Nuxt.js`                                          |
-  | Mobile            | `Flutter` `React Native`                                     |
+  | 🌱 Specification  | ✍ List of technologies                                                |
+  |    ---            |                        ---                                            |
+  | UI                | `React.js` `Vue.js` `Angular.js` `TailwindCSS` `Bootstrap`            |
+  | Serverside        | `Node.js` `Django` `Flask` `PHP` `Laravel` `Express.js` `Ness.js`     |
+  | Generators        | `Next.js` `Nuxt.js`                                                   |
+  | Mobile            | `Flutter` `React Native`                                              |
 
 ## Stats
 <!--START_SECTION:waka-->
