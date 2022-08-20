@@ -6,7 +6,7 @@ if you like what i do, maybe consider buying me a coffee(p.s. naaah tea) ðŸ¥ºðŸ‘
 
 A senior full-stack developer from Ukraine, based in Dnipro.
 
-- any freelance work? do reach, [telegram me](https://t.me/leroywagner).
+- any freelance work? do reach, [email me](mailto:leroy.wagner20@gmail.com).
 - ask me about anything, i am happy to help.
 
 #### Languages & Technologies
