@@ -2,6 +2,8 @@
 
 if you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺👉👈
 
+if you also want to invite me for an interview, please note that I am opposed to "smart names from the Internet" interviews ;)
+
 <a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
 A senior full-stack developer from Ukraine, based in Dnipro.
