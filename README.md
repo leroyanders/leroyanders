@@ -9,7 +9,7 @@ If you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺�
 1. Any freelance work? do reach, [email me](mailto:leroy.wagner20@gmail.com).
 2. Ask me about anything, i am happy to help.
 
-### 🌱 Languages & Technologies
+### 🍃 Languages & Technologies
 
 <table data-sourcepos="16:3-22:145">
   <thead>
