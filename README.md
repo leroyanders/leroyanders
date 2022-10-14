@@ -46,7 +46,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
         <img src="https://img.shields.io/badge/Django-003E2B?style=for-the-badge&logo=django&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/Flask-292D35?style=for-the-badge&logo=flask&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&style=flat" alt="PHP"/>
-        <img src="https://img.shields.io/badge/laravel-F43930?style=for-the-badge&logo=laravel&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/Laravel-F43930?style=for-the-badge&logo=laravel&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/Ness.js-007ACC?style=for-the-badge&logo=react&logoColor=white&style=flat" />
       </td>
