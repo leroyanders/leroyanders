@@ -1,8 +1,6 @@
 ### Hallo, wie geht's? 👋🏼
 
-If you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+<i> If you think that programmers are boring, then I want to upset you. We waste our nerves on mistakes and sincerely rejoice in their repair. This is the beauty of life ;) </i>
 
 ### A senior full-stack developer from Ukraine, based in Dnipro.
 
