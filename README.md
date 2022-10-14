@@ -1,6 +1,6 @@
 ### Hallo, wie geht's? 👋🏼
 
-If you think that programmers are boring, then I want to upset you. We waste our nerves on mistakes and sincerely rejoice in their repair. This is the beauty of life ;)
+If you think that programmers are boring, then I want to upset you.<br>We waste our nerves on mistakes and sincerely rejoice in their repair. This is the beauty of life ;)
 
 ### A senior full-stack developer from Ukraine, based in Dnipro.
 
