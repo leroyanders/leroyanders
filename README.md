@@ -1,17 +1,15 @@
-## Heeeeeeeeeey, what's up? 👋🏼
+### Heeeeeeeeeey, what's up? 👋🏼
 
 if you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺👉👈
 
-if you also want to invite me for an interview, please note that I am opposed to "smart names from the Internet" interviews ;)
-
 <a href="https://www.buymeacoffee.com/leroywagner" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
-A senior full-stack developer from Ukraine, based in Dnipro.
+### A senior full-stack developer from Ukraine, based in Dnipro.
 
 - any freelance work? do reach, [email me](mailto:leroy.wagner20@gmail.com).
 - ask me about anything, i am happy to help.
 
-#### Languages & Technologies
+### Languages & Technologies
 
 <table data-sourcepos="16:3-22:145">
   <thead>
@@ -79,7 +77,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
   </tbody>
 </table>
 
-## Stats
+### Stats
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
