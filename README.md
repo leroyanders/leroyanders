@@ -1,4 +1,4 @@
-### Heeeeeeeeeey, what's up? 👋🏼
+### Hallo, wie geht's? 👋🏼
 
 If you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺👉👈
 
