@@ -36,7 +36,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&style=flat" alt="CSS3"/> 
         <img src="https://img.shields.io/badge/SASS-b48a91?style=for-the-badge&logo=SASS&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/LESS-27338e?style=for-the-badge&logo=less&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/stylus-000000?style=for-the-badge&logo=stylus&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/Stylus-000000?style=for-the-badge&logo=stylus&logoColor=white&style=flat" />
       </td>
     </tr>
     <tr data-sourcepos="19:3-19:100">
@@ -73,7 +73,7 @@ A senior full-stack developer from Ukraine, based in Dnipro.
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&style=flat" alt="PHP"/>
         <img src="https://img.shields.io/badge/Dart-01589D?style=for-the-badge&logo=dart&logoColor=white&style=flat" alt="Dart"/>
         <img src="https://img.shields.io/badge/GraphQL-E631AC?style=for-the-badge&logo=graphql&logoColor=white&style=flat" alt="Grapql"/>
-        <img src="https://img.shields.io/badge/python-3876A7?style=for-the-badge&logo=python&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/Python-3876A7?style=for-the-badge&logo=python&logoColor=white&style=flat" />
       </td>
     </tr>
   </tbody>
