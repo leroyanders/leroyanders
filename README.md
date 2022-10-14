@@ -12,7 +12,6 @@ A senior full-stack developer from Ukraine, based in Dnipro.
 - ask me about anything, i am happy to help.
 
 #### Languages & Technologies
-<img width="850" alt="Screenshot 2022-10-14 at 10 52 14" src="https://user-images.githubusercontent.com/106757584/195792753-654b8bb2-0068-4ac5-8e9f-a1849e68bccd.png">
 
 <table data-sourcepos="16:3-22:145">
   <thead>
