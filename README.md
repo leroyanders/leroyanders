@@ -6,20 +6,16 @@ if you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺�
 
 ### A senior full-stack developer from Ukraine, based in Dnipro.
 
-- any freelance work? do reach, [email me](mailto:leroy.wagner20@gmail.com).
-- ask me about anything, i am happy to help.
+1. Any freelance work? do reach, [email me](mailto:leroy.wagner20@gmail.com).
+2. Ask me about anything, i am happy to help.
 
-### Languages & Technologies
+### 🌱 Languages & Technologies
 
 <table data-sourcepos="16:3-22:145">
   <thead>
     <tr data-sourcepos="16:3-16:97">
-      <th data-sourcepos="16:4-16:24">
-        <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Specification
-      </th>
-      <th data-sourcepos="16:26-16:96">
-        <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍</g-emoji> List of technologies
-      </th>
+      <th data-sourcepos="16:4-16:24">Specification</th>
+      <th data-sourcepos="16:26-16:96">List of technologies</th>
     </tr>
   </thead>
   <tbody>
@@ -77,7 +73,7 @@ if you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺�
   </tbody>
 </table>
 
-### Stats
+### 🍃 Stats
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -88,7 +84,7 @@ if you like what i do, maybe consider buying me a coffee(p.s. naaah tea) 🥺�
 🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
 
 ```
-📅 **I'm Most Productive on Friday** 
+**I'm Most Productive on Friday** 
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -100,16 +96,6 @@ Saturday     14 commits     ████░░░░░░░░░░░░░�
 Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 
 <!--END_SECTION:waka-->
 
