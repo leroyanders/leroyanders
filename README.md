@@ -1,3 +1,7 @@
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/106757584/211224092-a561faeb-50b3-4518-b181-b52e297f3152.svg" width="30%">
+</p>
+
 ### Senior Full-Stack Engineer & Technical Leader from Ukraine.
 
 *For more than 7 years I have been developing web applications and various software. Developed strategies for the development of enterprises, provided financial and client activities, increased the operational efficiency of the business. Conducted training and negotiations at the managerial level.*
