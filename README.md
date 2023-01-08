@@ -55,6 +55,7 @@ If you think that programmers are boring, then I want to upset you.<br>We waste 
       <td data-sourcepos="21:24-21:94">
         <code>Flutter</code>
         <code>React Native</code>
+        <code>Swift</code>
       </td>
     </tr>
     <tr data-sourcepos="22:3-22:145">
@@ -64,8 +65,18 @@ If you think that programmers are boring, then I want to upset you.<br>We waste 
         <code>Typescript</code>
         <code>PHP</code>
         <code>Dart</code>
-        <code>GraphQL</code>
         <code>Python</code>
+        <code>Swift</code>
+      </td>
+    </tr>
+    <tr data-sourcepos="22:3-22:145">
+      <td data-sourcepos="22:4-22:22">Databases</td>
+      <td data-sourcepos="22:24-22:144">
+        <code>MySQL</code>
+        <code>MongoDB</code>
+        <code>SQLite</code>
+        <code>PostgreSQL</code>
+        <code>GraphQL</code>
       </td>
     </tr>
   </tbody>
