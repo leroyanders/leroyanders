@@ -2,7 +2,7 @@
 
 If you think that programmers are boring, then I want to upset you.<br>We waste our nerves on mistakes and sincerely rejoice in their repair. This is the beauty of life ;)
 
-### A senior full-stack developer from Ukraine, based in Dnipro.
+### A Senior Backend-Frontend Developer & Technical Leader from Ukraine.
 
 1. Any freelance work? do reach, [email me](mailto:leroy.wagner20@gmail.com).
 2. Ask me about anything, i am happy to help.
