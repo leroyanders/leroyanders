@@ -1,12 +1,9 @@
-<img align="left" src="https://user-images.githubusercontent.com/106757584/211224092-a561faeb-50b3-4518-b181-b52e297f3152.svg" width="30%">
-
 ### Senior Full-Stack Engineer & Technical Leader from Ukraine.
 
 *For more than 7 years I have been developing web applications and various software. Developed strategies for the development of enterprises, provided financial and client activities, increased the operational efficiency of the business. Conducted training and negotiations at the managerial level.*
 
-Any freelance work? do reach, [email me](mailto:leroy.wagner20@gmail.com).
-
-Ask me about anything, i am happy to help.
+1. Any freelance work? do reach, [email me](mailto:leroy.wagner20@gmail.com).
+2. Ask me about anything, i am happy to help.
 
 If you think that programmers are boring, then I want to upset you.<br>We waste our nerves on mistakes and sincerely rejoice in their repair. This is the beauty of life.
 
