@@ -8,4 +8,4 @@ If you think that programmers are boring, then I want to upset you.<br>We waste 
 2. Ask me about anything, i am happy to help.
 
 #### Languages & Technologies
-![list (1)](https://user-images.githubusercontent.com/106757584/211222714-0e40d1e4-7e61-400c-9353-71bf7fca11ab.svg)
+<img src="https://user-images.githubusercontent.com/106757584/211222714-0e40d1e4-7e61-400c-9353-71bf7fca11ab.svg" width="65%">
