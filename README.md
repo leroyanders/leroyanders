@@ -79,6 +79,16 @@ If you think that programmers are boring, then I want to upset you.<br>We waste 
         <code>GraphQL</code>
       </td>
     </tr>
+    <tr data-sourcepos="22:3-22:145">
+      <td data-sourcepos="22:4-22:22">DevOps & CI/CD</td>
+      <td data-sourcepos="22:24-22:144">
+        <code>Docker</code>
+        <code>Kubernetes</code>
+        <code>Git</code>
+        <code>Slack</code>
+        <code>AWS</code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
