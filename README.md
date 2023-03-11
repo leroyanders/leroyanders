@@ -13,6 +13,7 @@
    `Vue.js` 
    `Next.js` 
    `Nuxt.js`
+   `Nest.js`
 2. Mobile development: 
    `Flutter` 
    `React Native` 
@@ -41,5 +42,6 @@
    `GIT` 
    `Slack` 
    `AWS`
+   `RabbitMQ`
   
 </article>
