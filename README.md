@@ -1,6 +1,6 @@
 <article>
    <h3 dir="auto">
-      Senior Backend Engineer &amp; Technical Leader from Ukraine.
+      Senior Backend Engineer &amp; Technical Leader from Germany.
    </h3>
    <p dir="auto">
       <em>For more than 7 years I have been developing web applications and various software. Developed strategies for the development of enterprises, provided financial and client activities, increased the operational efficiency of the business. Conducted training and negotiations at the managerial level.</em>
