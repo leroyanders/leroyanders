@@ -22,7 +22,8 @@ _If you hold the belief that programmers are mundane individuals, allow me to de
 | **Databases:**       | _PostgreSQL, MongoDB, MySQL, MariaDB, Redis_                                                                |
 | **Database ORM:**    | _TypeORM, Mongoose, Prisma_                                                                                 |
 | **DevOps & CI/CD:**  | _Docker, Git*, Slack, Aws, Aws Lambda, Jira_                                                                |
-| **Testing:**         | _Jest, Mocha, Cypress, Eslint_                                                                              |
+| **Testing:**         | _Jest, Mocha, Cypress_                                                                                      |
+| **Other tools:**     | _Eslint, JSHint, TSHint_                                                                                    |
 | **Architectures:**   | _Monolithic, Client-Server, SOA, EDA, Layered Architecture_                                                 |
 | **Message brokers:** | _RabbitMQ_                                                                                                  |
 | **Familiar with:**   | _HTML, SCSS, React, Redux, Effector, Figma, React Native, TailwindCSS, Sass, Less, Stylus, Webpack, Django_ |
