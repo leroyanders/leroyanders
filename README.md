@@ -21,7 +21,7 @@ _If you hold the belief that programmers are mundane individuals, allow me to de
 | **Frameworks:**      | _Nest.js, Express, Next.js, Fastify_                                                                        |
 | **Databases:**       | _PostgreSQL, MongoDB, MySQL, MariaDB, Redis_                                                                |
 | **Database ORM:**    | _TypeORM, Mongoose, Prisma_                                                                                 |
-| **DevOps & CI/CD:**  | _Docker, Git*, Slack, Aws, Aws Lambda, Jira_                                                                |
+| **DevOps & CI/CD:**  | _Docker, Git*, Slack, Aws, Aws Lambda, Jira, Hurma, Confluense_                                             |
 | **Testing:**         | _Jest, Mocha, Cypress_                                                                                      |
 | **Other tools:**     | _Eslint, JSHint, TSHint_                                                                                    |
 | **Architectures:**   | _Monolithic, Client-Server, SOA, EDA, Layered Architecture_                                                 |
