@@ -3,14 +3,13 @@
       Senior Backend Engineer &amp; Technical Leader from Germany.
    </h3>
    <p dir="auto">
-      <em>With over four years experience, I've developed web apps and software, devised growth strategies, managed finances, enhanced operational efficiency, and led managerial-level training and negotiations.</em>
-      <p>
-      <em>
-I actively participated in the maintenance of the Ad Exchange project, adhering to the Kanban system for task management. We conducted daily team meetings via Google Meet. I was responsible for configuring cron jobs for statistics and creating new materialized views in ClickHouse. Effective communication within the team and across various departments was facilitated through Slack.
-The primary focus of our efforts was to enhance the existing product, which was live. This involved meticulously verifying the accuracy of openRTB requests from our partners (SSP) and the correctness of responses from third-party sources and our internal chipboard. I made significant contributions to the project's future by introducing numerous innovative enhancements.</em>
-      <p><em>
-Oversaw the IT department, holding positions as a Unity Frontend Engineer and a Middle Backend Engineer. The primary focus was on task allocation through Asana and the refinement of completed projects in accordance with SOLID principles. Recently, we transitioned to a microservices architecture, configured for Nginx and Docker containers, and deployed on Amazon EC2.
-I also handled the integration of payment systems such as Payfast and CryptoCoin. Our daily routine commenced with a team Skype call, addressing current tasks, implementation options, and deadlines. At day's end, we consolidated tasks and updated statuses within the Asana system.</em>
+      Over the course of my career spanning more than four years, I have gained substantial experience in various facets of software development and project management. I have honed my skills in web application and software development, developed strategies for business growth, managed finances, optimized operational efficiency, and excelled in leadership roles where I conducted managerial training and negotiations.
+
+During a particular project focused on Ad Exchange, I played an integral role in its maintenance. I followed the Kanban task management system diligently and regularly participated in team meetings conducted via Google Meet. In this capacity, I was responsible for configuring cron jobs for statistics and creating materialized views in ClickHouse to enhance data analysis. My strong communication skills facilitated effective collaboration both within the team and with various departments, using platforms like Slack.
+
+My primary objective within the project was to enhance an existing live product. This involved meticulous validation of openRTB requests from our partners (SSP) and ensuring the correctness of responses from third-party sources, as well as our internal platform. I made significant contributions by introducing numerous innovative enhancements to propel the project's future growth.
+
+In a separate role, I served as both a Unity Frontend Engineer and a Middle Backend Engineer while overseeing the IT department. In this capacity, I was responsible for task allocation using Asana and ensuring the alignment of projects with SOLID principles. Additionally, I was involved in transitioning our architecture to a microservices model, configuring it with Nginx and Docker containers, and deploying it on Amazon EC2. I also managed the integration of payment systems, such as Payfast and CryptoCoin. My daily routine involved team discussions via Skype, focusing on current tasks, implementation strategies, and meeting deadlines. At the end of each day, I consolidated tasks and updated statuses within the Asana system.
    </p>
 
 <ol dir="auto">
