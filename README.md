@@ -3,7 +3,7 @@
       Senior Backend Engineer &amp; Technical Leader from Germany.
    </h3>
    <p dir="auto">
-      Over the course of my career spanning more than four years, I have gained substantial experience in various facets of software development and project management. I have honed my skills in web application and software development, developed strategies for business growth, managed finances, optimized operational efficiency, and excelled in leadership roles where I conducted managerial training and negotiations.
+      Over the course of my career spanning more than five years, I have gained substantial experience in various facets of software development and project management. I have honed my skills in web application and software development, developed strategies for business growth, managed finances, optimized operational efficiency, and excelled in leadership roles where I conducted managerial training and negotiations.
    </p>
 
 <ol dir="auto">
